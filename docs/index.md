@@ -1,15 +1,9 @@
 # Sergio Esteban Romero
 
-## Commands
+## About
+    Hi! My name is Sergio. I am currerntly studying a PhD at Universidad Politécnica de Madrid.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Contact
 
-## Project layout
+    - email: sergio.estebanro(at)alumnos.upm.es
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
