@@ -1,0 +1,6 @@
+site_name: Sergio Esteban Romero
+site_url: https://sergioesro.github.io/
+nav:
+  - Home: index.md
+theme:
+  name: material
